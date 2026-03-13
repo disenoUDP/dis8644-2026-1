@@ -28,9 +28,8 @@ Referencias:
 Encyclopaedia Britannica. (s.f.). Wendy Carlos.
 
 https://www.britannica.com/biography/Wendy-Carlos
-Who2. (s.f.).
 
-Wendy Carlos.
+Who2. (s.f.). Wendy Carlos.
 
 https://www.who2.com/bio/wendy-carlos/
 
