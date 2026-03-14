@@ -39,6 +39,10 @@
   - Le interesan los sonidos de los aviones
   - Crea sus propias composiciones
   - Cuestiona si esto es musica o no
+  - Amor a primera vista con el sintetizador
+    - Trabajaba con el tiempo
+      - Tonalidades y frecuencias
+  - Una nueva manera de escuchar
 
 - ### Bebe Barren (1925)
   - Greenwich, NY
@@ -77,12 +81,6 @@
     - Le interesaba mucho la ciencia computacional
     - Estudiaba el acto de "escuchar"
 
-  - ### Eliane Radigue (1932)
-    - Amor a primera vista con el sintetizador
-    - Trabajaba con el tiempo
-      - Tonalidades y frecuencias
-    - Una nueva manera de escuchar
-   
   - ### Wendy Carlos (1939)
     - Switched-On Bach:
       - https://archive.org/details/wendy-carlos-witched-on-bach/01+Sinfonia+To+Cantata+No.+29.mp3
