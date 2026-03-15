@@ -2,11 +2,11 @@
 
 ## clase 130326
 
-Suzanne ciani hizo el pop de un comercial de cocacola
+- Suzanne ciani hizo el pop de un comercial de cocacola
 
-WolframAlpha: calculadora
+- WolframAlpha: calculadora
 
-Shift+ctrl+r es un refresh duro
+- Shift+ctrl+r es un refresh duro
 
 Primera parte: aprender Github
 
