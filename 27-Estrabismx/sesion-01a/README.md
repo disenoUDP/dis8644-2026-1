@@ -2,14 +2,14 @@
 
 ## *Wendy Carlos, La arquitecta de la música contemporánea*
 
-![Alt text](https://depositosonoro.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-13T170540.415-1024x576.jpg)
+![Wendy Carlos](./imagenes/wendy_carlos.jpg)
 > Depósito Sonoro. (s.f.). Wendy Carlos: Pionera de la Música Electrónica y Compositora de Soundtracks Icónicos.
 
 <br>
 
 Nacida en el año 1939 en Estados Unidos, ingresa a la Brown University (ubicada en Rhode Island) donde estudia música y física, posteriormente en la Universidad de Columbia en Nueva York donde obtuvo su máster en música. Siendo ya los años 60, conoció a Robert Moog (figura destacada en la evolución del sintetizador) con quien colaboró en la creación del famoso “Moog modular”, el cual posteriormente utilizaría para crear “switched-on Bach”
 
-![Alt text](https://m.media-amazon.com/images/I/71kum4J-E9L._UF1000,1000_QL80_.jpg)
+![Portada Switched-on Bach](./imagenes/switched-on_bach_portada.jpg)
 >Portada del disco 
 
 <br>
