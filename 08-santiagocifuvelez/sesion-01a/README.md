@@ -169,7 +169,7 @@ antepasadas y del sonido que nos rodea.
    <img src="https://i.scdn.co/image/ab6761610000e5eb304d7278aac1f8994055480b" width="30%">
 </div>
 
-Referencias (Barcelona, 2019) (Oliva, 2018) 
+## Referencias (Barcelona, 2019) (Oliva, 2018) 
 
 Bacanas, M. (s. f. de s. f. de s. f.). Mujeres Bacanas . Obtenido de Mujeres Bacanas: 
 https://mujeresbacanas.com/suzanne-ciani-1946-es-considerada-una-de-las/ 
@@ -182,5 +182,4 @@ https://mexico.mutek.org/es/artistas/suzanne-ciani
 
 Oliva, A. D. (2 de Octubre de 2018). Una vida sobre las olas de la electrónica: Suzanne Ciani en 
 Chile. La tercera. Obtenido de La Tercera (sección Culto): 
-https://www.latercera.com/culto/2018/10/02/una-vida-las-olas-la-electronica
-suzanne-ciani-chile/
+https://www.latercera.com/culto/2018/10/02/una-vida-las-olas-la-electronicasuzanne-ciani-chile/
