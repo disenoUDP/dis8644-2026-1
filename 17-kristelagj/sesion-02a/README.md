@@ -80,14 +80,13 @@ Mucho de las cosas que hacemos es por sentir algo (aaron)
 
 ### post-clase
 
-Cada resistencia debe existir un cable
+1. Cada resistencia debe existir un cable
+2. La resistencia debe ir en la misma línea que el cable y el lado positivo del led en vertical
+3. Todo debe ir en la misma linea
+4. Coloque otro circuito, pero de manera equivocada y la luz del primer circuito fallaba
 
-La resistencia debe ir en la misma línea que el cable y el lado positivo del led en vertical
-
-Todo debe ir en la misma linea
-
-Coloque otro circuito, pero de manera equivocada y la luz del primer circuito fallaba
-
+- Analisis artistas
+- Ejercicios
 
 
 
