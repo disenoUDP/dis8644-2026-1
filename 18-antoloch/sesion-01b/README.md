@@ -149,9 +149,25 @@ Su enfoque se basa en:
 ## Aaron Swartz documentary
 
 Programador y activista de internet que defendía el acceso libre al conocimiento.
-
+![aaron](./imagenes/Aaron.jpg) 
 El documental explica:
-
 - Su vida
 - Su trabajo en internet
 - Su lucha por el acceso abierto a la información.
+
+## Introducción
+El documental *The Internet’s Own Boy: The Story of Aaron Swartz* (2014) cuenta la historia de Aaron Swartz, un programador y activista que luchó por el acceso libre a la información en internet. Desde muy joven participó en el desarrollo de tecnologías importantes de la web y dedicó gran parte de su vida a defender que el conocimiento debería estar disponible para todas las personas.
+
+## Desarrollo
+Aaron Swartz fue un programador muy influyente en el mundo digital. Participó en la creación del estándar RSS cuando era muy joven y también estuvo involucrado en el desarrollo de plataformas importantes de internet. Con el tiempo se enfocó en el activismo digital, defendiendo el acceso abierto a la información y criticando los sistemas que limitaban el acceso al conocimiento científico.
+
+El conflicto principal que muestra el documental ocurre cuando Swartz descargó una gran cantidad de artículos académicos desde la base de datos JSTOR utilizando la red del MIT. Aunque no se comprobó que hubiera publicado los artículos, el gobierno de Estados Unidos lo acusó bajo leyes de fraude informático, enfrentando posibles penas de prisión muy altas. Esta situación generó una gran presión personal sobre él.
+
+## Conclusión
+El documental muestra el conflicto entre el acceso libre al conocimiento y las leyes que protegen la propiedad intelectual. También invita a reflexionar sobre el papel de internet en la sociedad y quién debería tener acceso a la información. La historia de Aaron Swartz demuestra cómo una sola persona puede influir en el debate sobre los derechos digitales y la libertad de información.
+
+## Fuentes
+
+- https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz  
+- https://en.wikipedia.org/wiki/Aaron_Swartz   
+- https://www.pbs.org/newshour/arts/internets-boy-tries-find-aaron-swartz
