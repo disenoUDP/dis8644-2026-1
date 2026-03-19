@@ -187,6 +187,17 @@ El álbum contiene tonos animados. con ritmos y sonidos que vibran y percusiones
 
 El álbum retrata la vida urbana de los años 2000, mencionando los cambios tecnológicos, la falta de cultura  y el ritmo acelerado de las ciudades. A través de sus canciones se habla de la rutina, la presión social y la búsqueda de identidad dentro de un entorno dominado por el consumo, la inmediatez y la vida nocturna.
 
+conciertos en vivo: Kraftwerk - Radioactivity (2009)
+Se ve a los artistas tocando los intrumentos en vivo, partiendo todo en negro para ir de apoco introduciendo mas colores e imagenes o letras mostrando el mensaje que tranmite la cancion, siendo hironico que al dia de hoy, en el tiempo que mas cerca se estuvo de una guerra nuclear. HAsta el dia de hoy, ellos siguen apoyandose de una pantalla con iamgenes represntativas y acorde a la musica intrumental, pero ahora agragando los trajes y a ellos ( su persona) como parte del show.
+
+![c_2008](https://github.com/paulafuentesm/dis8644-2026-1/blob/3685439e65568e3ab4aa9f3a5ceed95616830ccc/13-paulafuentesm/sesion-02a/imagenes/concierto_2009_1.png)
+
+Imagen: Concierto 2008
+
+![c2_2025](https://github.com/paulafuentesm/dis8644-2026-1/blob/3685439e65568e3ab4aa9f3a5ceed95616830ccc/13-paulafuentesm/sesion-02a/imagenes/concierto_2025_2.png)
+
+Imagen: Concierto 2025
+
 ***Cancion Destacada: North American Scum***
 
 mira exterior y los estereotipos que tienen las personas de EEUU, su falta de cultura y como se influye esto en el exterior. 
