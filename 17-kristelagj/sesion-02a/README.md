@@ -127,7 +127,8 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R4            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
-![ejercicio 1](imagenes/ejercicio_1c.jpg)
+![ejercicio 1](imagenes/ejercicio1_c.jpeg) 
+
 Ejercicio 2
 
 1. Primero realice el circuito central y funciono solo.
