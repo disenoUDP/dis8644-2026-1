@@ -158,7 +158,7 @@ Ejercicio 2
 | R7            |    I26,I28   |  
 | R8            |    G29,E29   | 
 
-![ejercicio 2](imagenes/ejercicio2_c.jpg)
-![ejercicio evidencia](imagenes/ejercicio2_evidencia.jpg)
+![ejercicio 2](imagenes/ejercicio2_c.jpeg)
+![ejercicio evidencia](imagenes/ejercicio2_evidencia.jpeg)
 
 
