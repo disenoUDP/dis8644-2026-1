@@ -219,6 +219,8 @@ Esto tuvo influencia de Alemania post guerra como con el orden, frialdad, tecnol
 
 En el disco escucho como golpes ritmicos y mecanicos, sonidos de televisor antiguo, voces con cambios radicales y muy duros en su hablado, estática, instrumentos y melodías con las que se pueden sentir mas agradebles algunos momentos y otros mas tensos como de aburrimiento dependiendo de los agudos y graves con repeticion, mezclas de ritmos de fondo con resultados al azar que tiran las maquinas en su estado natural, como si se rayaran algunos discos y efectos como si actualmente se pusieran filtros de voz o de sonido.
 
+Me recuerda a videojuegos tipo 8 bits o juegos pixelados en 2D como terraria y bastante cercano a las canciones de daft punk.
+
 ## Desarrollo encargo parte 3
 
 Un avance significativo en este disco: Sound of Silver – Avances para la época (2007), sería el punto de como se mezcla lo electrónico con lo humano, ya que a diferencia de Kraftwerk, que se inclinaba hacia conseguir un sonido más mecánico, LCD Soundsystem logra combinar sintetizadores, instrumentos como la batería o el bajo, generando una sensación de que la música se siente.
