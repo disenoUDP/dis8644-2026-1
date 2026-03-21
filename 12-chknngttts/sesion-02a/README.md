@@ -1,6 +1,6 @@
 # sesion-02a
 - ## Materiales
-![Materiales Clases](./imagenes/IMG_3370X.jpg)
+![Materiales Clases](./imagenes/img-3370x.jpg)
   - Protoboard
   - Parlante Imán Cerámica 8Ω 1W
   - Batería 9V
@@ -21,15 +21,15 @@
 
 - ## Pruebas protoboard
   - ### **1 LED**
-    - ![Primera prueba](./imagenes/IMG_3358X.jpg)
+    - ![Primera prueba](./imagenes/img-3358x.jpg)
   - ### **2 LED**
     - Las LED son independientes de la otra, cada una alimentandoce de manera propia
-    - ![Segunda prueba ON](./imagenes/IMG_3360X.jpg)
-    - ![Segunda prueba OFF](./imagenes/IMG_3362X.jpg)
+    - ![Segunda prueba ON](./imagenes/img-3360x.jpg)
+    - ![Segunda prueba OFF](./imagenes/img-3362x.jpg)
   - ### **Conexión 2 protoboard con 4 LED**
-    - ![Prueba 2 Protoboard 4 LED](./imagenes/IMG_3364X.jpg)
+    - ![Prueba 2 Protoboard 4 LED](./imagenes/img-3364x.jpg)
   - ### **Prueba circuito trabajo en clase**
-    - ![Prueba circuito trabajo en clase](./imagenes/IMG_3368.gif)
+    - ![Prueba circuito trabajo en clase](./imagenes/img-3368.gif)
 
         wooooow gif
 
@@ -43,11 +43,10 @@
       - D = LED
         - Diodo
 
-    (imagen pasar a ilustrator)
 -  ## Ejercícios de circuitos y alteraciónes
   - LQXTLC 1:
 
-    - ![Circuito1](./imagenes/IMG_3366X.jpg)
+    - ![Circuito1](./imagenes/img-3366x.jpg)
 
 | LQXTLC                | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
@@ -59,7 +58,7 @@
 
   - LQXTLC 2:
 
-    - ![Circuito2](./imagenes/IMG_3376X.jpg)
+    - ![Circuito2](./imagenes/img-3376x.jpg)
 
 | LQXTLC                | D1    | D2    | D3    |
 | ---                   | ---   | ---   | ---   |
@@ -74,7 +73,7 @@
 
   - LQXTLC 3:
 
-    - ![Circuito3](./imagenes/IMG_3377X.jpg)
+    - ![Circuito3](./imagenes/img-3377x.jpg)
 
 | LQXTLC               | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
@@ -85,7 +84,7 @@
 | R5                   |  ✔️  |  ✔️  |  ✔️  |  ✔️  |
 | R6                   |  ✔️  |  ✔️  |  ✔️  |  ✔️  |
 
-- ![GIF_Quemado](./imagenes/IMG_3378X.gif)
+- ![GIF_Quemado](./imagenes/img-3378x.gif)
   - Se ve quemado el gif
     - Algo hice
 
@@ -173,14 +172,14 @@
       - https://injuryreserve.bandcamp.com/album/by-the-time-i-get-to-phoenix
         - La primera canción "Outside" usa respiración en general, pero sobre todo al final
           - (La mejor canción de la vida está en este album y se llama "Superman That", es espectacular y no hay nada parecido y no creo que lo haya)
-    - ![emoji/gif baile](./imagenes/astDance.gif)
+    - ![emoji/gif baile](./imagenes/sesion-02a.gif)
     - Usan una especie de arpa y bajos tipo cello
     - Ruido de bicicleta muy entretenido, deberian haberlo usado más
       - Con panning L/R
     - Top 3 en el album y muy buen cierre para el album siento que lo encapsula de manera efectiva
 
 - ## **datos extra**
-    - ![Kraftwerk en vivo](./imagenes/KraftwerkVivo.jpg)
+    - ![Kraftwerk en vivo](./imagenes/kraftwerk-vivo.jpg)
       - Hicieron un tour donde tocaban con 4 computadores que estaban conectados a los sintetizadores y samplers
     - Han hecho el recorrido del Tour de Francia caminando
     - Fue grabado en Düsseldorf, Alemania
