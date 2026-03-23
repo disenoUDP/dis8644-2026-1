@@ -97,9 +97,9 @@ Mientras hacía estos ejercicios intenté ver videos explicativos de cómo resol
 
 - ¿Hay alguna manera de conectar el parlante con el chip NE555P para que haga sonidos de manera intermitente así como parpadeaba el LED?
 - ¿Cómo podemos saber qué resistencias usar?, es decir, al momento de crear nuestro propio circuito, ¿hay que sumar la corriente total de todo lo que queremos usar o tenemos que ir calculando componente por componente?
-- En Interacciones Inalámbricas mencionó que dejó sugerencias en algunos apuntes de github, ¿eso también lo hace en taller?, de ser así, ¿dónde lo podemos ver?
+- Duda sobre Github: En Interacciones Inalámbricas mencionó que dejó sugerencias en algunos apuntes de github, ¿eso también lo hace en taller?, de ser así, ¿dónde lo podemos ver?
+- Para los encargos se nos ha hecho ver y escuchar cosas sobre la historia de la electrónica e íconos de ésta misma, ¿en algún momento se nos hará leer un libro sobre ésto? ¿o sólo nos mantendremos con contenido audiovisual y auditivo? No es queja, es pregunta genuina. De hecho, personalmente prefiero las cosas audiovisuales ya que me es más fácil entender a que solo ver texto).
 - 
--
 -
 -
 -
