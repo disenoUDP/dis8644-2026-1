@@ -85,6 +85,14 @@ Se nos entregaron unos fotorresistores (LDR), los cuales no tienen polaridad. La
 
 Personalmente, nunca me ha ido bien en las cosas que involucran cálculos (saqué 528 puntos en la PAES M1), mucho menos en física a pesar de que la disfrutaba ya que solo tenía que seguir fórmulas que por alguna razón nunca me salían bien, por lo que quiero trabajar en ésto haciendo ejercicios de la ley de ohm, ya que tendremos que ver estas formulas y ejercicios durante todo el semestre por lo que me niego a seguir con el mismo nivel de resolución de ecuaciones. Para ésto, buscaré ejercicios en google y los resolveré en mi bitácora física por comodidad. Estos son los resultados:
 
+![Foto de ejercicio ley de ohm](./imagenes/ejercicios-ohm1.jpg)
+
+En el ejercicio que se ve abajo, dejé dos opciones en las cuales estoy seguro de que ninguna está bien o tal vez la segunda opción se puede ver más convincente. Debido a éste ejercicio me di cuenta de que no sé qué se hace en el caso de que haya más de una resistencia, lo cual me ayudó a formular una pregunta para el encargo de las 10 preguntas. Volviendo al ejercicio, no sé cuál de las dos opciones es la menos incorrecta ya que me di cuenta de que la página no traía el resultado.
+
+![Foto de ejercicio ley de ohm](./imagenes/ejercicios-ohm2.jpg)
+
+Mientras hacía estos ejercicios, intenté ver videos explicativos de cómo resolver ejercicios de circuitos paralelos, pero cada vez entendía menos y puede ser porque ninguno era como los circuitos que vemos nosotros, y no logré encontrar ningún video explicativo sencillo con esquemas parecidos a los de nosotros. Me dejó un poco decepcionado el no encontrar lo que yo buscaba, aparte de confuso por todos los calculos extraños que tuve que ver antes de darme cuenta de que no era lo que estaba buscando. Igual fue un poco entretenido.
+
 #### 10 Preguntas
 
 - ¿Hay alguna manera de conectar el parlante con el chip NE555P para que haga sonidos de manera intermitente así como parpadeaba el LED?
