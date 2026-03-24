@@ -76,6 +76,34 @@
           - me falta conectar 2 o más fotoresistores para ver que se puede hacer
 
 -----------------------------------
+- ## **refuerzo**
+
+- no entendí muy bien como funcionaba el 555 y como conectarlo para hacerlo funcionar
+- ### **a base del diagrama más conceptual**
+  - ![555 ref a base del conceptual](./imagenes/ref-1.jpg)
+    - no funcionó el intermitente, por lo que algo hice mal
+- ### **a base del esquema KiCad**
+  - ![555 ref a base KiCad](./imagenes/ref-5.jpg)
+    - ahora si me funcionó
+      - eso si no le presté mucha atención a las resistencias, y puse cualquiera
+        - fuí cambiandolas hasta que me diera la intermitencia que buscaba
+  - ### **probando los pin del potenciómetro**
+    - ![555 ref con potenciómetro](./imagenes/ref-2.jpg)
+      - aquí fui intercambiando los pines del potenciómetro a ver que pasaba, y para este citcuito si o si necesitaba el del medio
+        - si no se conectaba, se quedaba prendida la LED sin apagarse intermitentemente
+  - ## **que pasa con 2 potenciómetros**
+    - ![555 ref con 2 potenciómetros](./imagenes/ref-3.jpg)
+      - habia probado 1 potenciómetro y 1 fotoresistor pero no 2 del primero
+      - al tener 2 conectados con los pines del medio y derecho en ambos lados se podia controlar facilmente
+        - se sentia un poco como una moto(?) pero al reves
+        - si habia un limite donde la LED estaba prendida nomas y ambos potenciómetros no podian estar a más de aprx la mitad
+  - ## **que pasa con 2 fotoresistores**
+    - ![555 ref con 2 fotoresistores](./imagenes/ref-4.jpg)
+      - muy parecido a los 2 potenciómetros
+        - hay un limite donde tener los 2 en algún valor, no cambia mucho el efecto individual de cada fotoresistor
+          - si me imagino un aparato que funcione mas producido con distintos fotoresistores como tecla
+
+-----------------------------------
 - ### **mini extras**
   - ### **3 LED ** ![lol](./imagenes/lol.png)
       - ![protoboard con 3 LED](./imagenes/video-luz2.gif)
@@ -109,3 +137,30 @@
 
     - y esto lo encontre chistoso pero muy interesante porque no entiendo muy bien como funciona
       - https://www.tiktok.com/@gonzosightseeing/video/7615463322128829726
+---------------------------------
+
+- ## preguntas
+  - como podemos hacer funcionar el parlante?
+    - le he enchufado directo a la bateria pero más que eso no
+  - que hace cada pin del potenciometro?
+  - como se pueden hacer sonidos para hacer sonar el parlante?
+    - se pueden modificar? (más ruidoso/reverb/tipo drone...)
+  - que hace los otros chips que nos dieron?
+    - CD40106BE
+    - CD4017BE
+    - LM386
+  - hay/vamos a trabajar con otros tipos de sensores?
+    - proximidad/temperatura/sonido etc...
+  - que tipos de proyectos que podriamos hacer?
+    - mencionaron que fueran vinculados al sonido más que nada pero, quieren algo en especifico o se va a poder hacer algo más a lo loco
+      - podria llegar a hacer un gorro que tenga trabajo con sonidos o nos quedariamos más en las PCB como piezas de por sí
+  - las PCB se pueden personalizar?
+    - color/propiedades/no se me ocurre más pero si hubiera algo que se le pueda personalizar
+  - cuales son los usos generales del 555?
+    - se usa en productos comerciales o solo en prototipos
+  - podria haber una mini clase de KiCad?
+    - no entendí como usarlo
+  - como funciona esto?
+    - https://www.tiktok.com/@gonzosightseeing/video/7615463322128829726
+    - lo puse antes en el readme y aprovecho a preguntar como funciona
+  - hay más referentes musicales que nos recomienden(?)
