@@ -47,7 +47,7 @@ Volviendo al ejemplo de la reserva de agua del profesor:
 
 ![resistencias](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img4.jpeg)
 
-
+Las resistencias presentan bandas de colores que funcionan como un código estandarizado. Cada color representa un número, y la combinación de estos permite determinar el valor de la resistencia en ohmios, así como su tolerancia.
 
 ## Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
