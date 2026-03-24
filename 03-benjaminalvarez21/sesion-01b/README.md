@@ -42,13 +42,13 @@ Luces led: Pata larga positiva + anodo, pata corta negativa - catodo
 
 Rafael Benguria
 
-![foto 1](./imagenes/IMG_2311.jpeg)
+![foto 1](./imagenes/img-2311.jpg)
 
-![foto 2](./imagenes/IMG_2312.jpeg)
+![foto 2](./imagenes/img-2312.jpg)
 
-![foto 3](./imagenes/IMG_2313.jpeg)
+![foto 3](./imagenes/img-2313.jpg)
 
-![foto 4](./imagenes/IMG_2314.jpeg)
+![foto 4](./imagenes/img-2314.jpg)
 
 ### The Internet´s Own Boy Encargo 02
 
