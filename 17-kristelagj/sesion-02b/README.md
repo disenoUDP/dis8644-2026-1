@@ -152,10 +152,10 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 ### Preguntas
 
-1. Aún no comprendo y como interpretar los nodos en el esquematico.
-2. Necesito saber el porque de porque se deben colocar las cosas de esa manera, osea porque debo colocar un cable de cierta forma y no de otra, por ejemplo.
+1. Aún no comprendo y como interpretar los nodos en el esquematico, aún no logro resolver el ejercicio número 3
+2. Necesito saber el porque de porque se deben colocar los elementos entregado de esa manera, osea porque debo colocar un cable de cierta forma y no de otra, por ejemplo. A que me refiero con esto es que son formas establecidas de como llegar a ciertos resultados o pueden existir un sin fin de formas para no sé, prender una luz, ya que siento todo demasiado reglamentado. 
 3. Lugares en youtube donde me expliquen la materia que estamos viendo y/o páginas que sean en español
 4. De que forma uno se puede aprender todos los nombres ¿tienen algún sistema/tabla/etc? Aún me cuesta
-5. El ejercicio de la clase pasada no lo entendí  (revisar mi cuaderno)
+5. El ejercicio de la clase pasada no lo entendí (el matematico) 
 6. 
 
