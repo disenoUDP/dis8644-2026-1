@@ -12,6 +12,15 @@ Este registro, va a ser dividirlo en 5 partes:
 4.	Ejercicios de circuitos 
 5.	Investigación/análisis – Kraftwerk y LCD Soundsystem.
 
+Vamos a ver que tal.
+
+## 1.	Entrega de Kit electrónico-experimental-mágico-funcional.
+
+Con la cuota de dinero que dimos a la clase, los profesores y ayudantes del aula nos hicieron the sweetest maquina’s kit ever, el cual tenía nuestro nombre del repositorio de GitHub y todos los elementos que usaremos para aprender.
+
+## 2.	Resistencias, colores y uso.
+
+
 ## Entrega de ejercicios
 ![Ejercicio 1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/ej-1.jpg)
 
