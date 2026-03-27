@@ -53,6 +53,9 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 ![prueba](imagenes/prueba.png) 
 
+- Reconozco que 8 va directo a VCC y 1 va a GND. Esto ha ocurrido en los ejercicios que hemos hecho con 555.
+
+
 ![prueba]
 
 - Cómo leer un esquemático
