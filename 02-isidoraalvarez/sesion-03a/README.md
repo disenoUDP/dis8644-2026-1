@@ -42,6 +42,7 @@ nos costo entender la parte de los switch con los cables y las resistencias pero
 
 ## **Documental**
 
+![asuar](./imagenes/asuar.png)
 **Variaciones Espectrales**
 
 El documental Variaciones Espectrales habla sobre José Vicente Asuar, un músico e ingeniero chileno que fue un pionero de la música electrónica en Chile. La verdad, lo que más me impresionó no fue toda su historia ni los premios que recibió, sino su invento, el computador “comdasuar” musical digital analógico que podía generar música usando cálculos y programación. Lo impresionante es que esto fue mucho antes de que los sintetizadores fueran comunes, así que básicamente estaba creando música con una máquina totalmente adelantada a su época. Me quedé impresionada al ver cómo podía componer sola y cómo Asuar mezclaba tecnología y creatividad de una forma que todavía hoy se ve innovadora.
