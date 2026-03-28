@@ -24,7 +24,10 @@ Para comenzar, vamos a aprender los nombres de las diversas y nuevas herramienta
 *Así se vería el chip 555 en acción, en la protoboard.* 
 ![Circuito](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02b/imagenes/img4.png)
 
+A manera de conclusión, la luz LED puede parpadear o muy rápido o muy lento, y esto depende de varias cosas; de la resistencia de entrada y de la capacitancia del capacitor/condensador electrolítico polarizado. 
+
 Fin c:
+
 
 
 
