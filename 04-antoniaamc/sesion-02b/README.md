@@ -4,12 +4,12 @@
 
 ![autobahn](./autobahn_2009.jpg)
 
-Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una grabación electrónica revolucionaria, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “I Feel Love” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
+Autobahn es el cuarto álbum publicado del grupo alemán Kraftwerk en Noviembre de 1974, siendo el primero que logró posicionar tanto a la banda, como a la música electrónica cantada en alemán dentro de la escena y listas de éxitos internacionales (Top 30 en Europa y Estados Unidos). Fue una **grabación electrónica revolucionaria**, incorporó líneas de bajo sintetizadas aproximadamente tres años antes de “*I Feel Love*” de Donna Summer y Giorgio Moroder, tema que marcó uno de los primeros acercamientos masivos a la electrónica en la música disco. 
 
 Audio Media Internacional 
 https://audiomediainternational.com/deep-cuts-kraftwerk-synths/#:~:text=CONTENIDO%20EXTRA:%20M%C3%81S%20SINTETIZADORES%20Y%20EFECTOS%20DE%20KRAFTWERK&text=Los%20ritmos%20se%20reproduc%C3%ADan%20electr%C3%B3nicamente,equipos%20que%20nadie%20m%C3%A1s%20ten%C3%ADa. 
 
-El título Autobahn, traducido al español como “autopista”. Hace alusión a la “Bundesautobahn”, red de autopistas federales de Alemania. Esta es considerada como uno de los orgullos del país, con sus casi 13.000km de vías gratuitas que permiten la interconectividad con Europa sin límite de velocidad (en aproximadamente 70% de su extensión).
+El título Autobahn, traducido al español como “*autopista*”. Hace alusión a la “*Bundesautobahn*”, red de autopistas federales de Alemania. Esta es considerada como uno de los orgullos del país, con sus casi 13.000km de vías gratuitas que permiten la **interconectividad con Europa sin límite de velocidad** (en aproximadamente 70% de su extensión).
 
 
 ### Arte de portada obtenida de Philips Records.
