@@ -78,3 +78,16 @@ graph TD
     R1K --> LED
     LED --> GND
 ```
+
+### Ejercicio en clase
+
+![555](./imagenes/monoyastable.HEIC)
+![555](./imagenes/fotoresistor.HEIC)
+
+No nos funcionó a la primera porque no conectamos las tierras (tood el circuito tiene solo una tierra (GND)
+
+Cambiamos el fotoresistor por un potenciometro para probar cosas ;))))
+![555](./imagenes/potenciometro.HEIC)
+
+Luego conectamos un potenciometro para controlar el volumen:
+![555](./imagenes/volumenpot.HEIC)
