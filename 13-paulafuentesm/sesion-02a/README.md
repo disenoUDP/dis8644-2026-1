@@ -163,7 +163,7 @@ Portada
 
 Imagen:Portada-Fuente: Wikipedia
 
-![Volksempfänger](https://github.com/paulafuentesm/dis8644-2026-1/blob/1ff4f9cf17fb39086f3288f5ed5bb1752f851715/13-paulafuentesm/sesion-02a/imagenes/Volksempf%C3%A4nger.jpg)
+![Volksempfänger](https://github.com/paulafuentesm/dis8644-2026-1/blob/2cab96cf07c737e3e34f03ade73414f6324c5955/13-paulafuentesm/sesion-02a/imagenes/volksempf%C3%A4nger.jpg)
 
 Imagen: Volksempfänger-Fuentes: Wikipedia
 
@@ -198,7 +198,7 @@ Sound of Silver ( 2008)
 + cambios tecnologicos, y vida urbana
 + la portada muestra como una camara pero no estoy segura
 
-![Sound-of-Silver](https://github.com/paulafuentesm/dis8644-2026-1/blob/667be58cd02dc5bb27014d6ace18a7137edf257c/13-paulafuentesm/sesion-02a/imagenes/Sound-of-Silver.jpg)
+![Sound-of-Silver](https://github.com/paulafuentesm/dis8644-2026-1/blob/2cab96cf07c737e3e34f03ade73414f6324c5955/13-paulafuentesm/sesion-02a/imagenes/sound-of-silver.jpg)
 
 Imagen: Portada-Fuentes: Wikipedia
 
@@ -219,7 +219,7 @@ Los show en vivo de LDC, se tratan de un refuerzo de luces en vez de una plantal
 
 Imagen: Concierto 2016
 
-![lcd_2021](https://github.com/paulafuentesm/dis8644-2026-1/blob/1c0f2b160b35f7f594c84779f5d3ab93d8448362/13-paulafuentesm/sesion-02a/imagenes/lcd_concierto_2021.png)
+![lcd_2021](https://github.com/paulafuentesm/dis8644-2026-1/blob/2cab96cf07c737e3e34f03ade73414f6324c5955/13-paulafuentesm/sesion-02a/imagenes/lcd_concierto_2021.png)
 
 ![lcd02_2021](https://github.com/paulafuentesm/dis8644-2026-1/blob/1c0f2b160b35f7f594c84779f5d3ab93d8448362/13-paulafuentesm/sesion-02a/imagenes/lcd_concierto_2021_2.png)
 
