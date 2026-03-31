@@ -5,7 +5,7 @@
 220K: Rojo, rojo, cafe y dorado (grande)
 
 
-##Encargo
+## Encargo
 Personalmente no me gusta tanto la musica electronica retro. Prefiero algo más estimulante y significativo. Aunque eso no quita que pueda apreciarla de cierta manera. 
 
 **Kraftwerk**
