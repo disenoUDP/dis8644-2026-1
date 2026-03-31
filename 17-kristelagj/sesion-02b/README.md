@@ -37,8 +37,7 @@ Foto ejercicio
 
 Interrupción del circuito es cuando se saca algo de este
 
-foto del esquemático abstracto
-
+![abtracto](imagenes/esquematico.jpeg)
 Grafo (topologia)
 
 **Capacitor o condensador:** Existen con polaridad o sin polaridad
