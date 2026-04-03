@@ -1,5 +1,29 @@
 # sesion-02a
+## Apuntes 
+### resistencias
+Las resistencias o resistores son los componentes más comunes en la electrónica. Su función principal es oponerse al paso de la corriente eléctrica, actuando como un "embudo" o un limitador.
 
+**1. Su función**
++ Protección: Evitan que llegue demasiada corriente a componentes delicados (como tus luces LED o el chip 555) y los quemen.
++ Divisores: Ayudan a repartir el voltaje en diferentes partes de un circuito.
++ Control de tiempo: En tu circuito astable, el resistor decide qué tan rápido se carga el condensador, lo que define la velocidad del parpadeo o el tono del sonido.
+  
+**2. Unidad de medida**
+
+  La unidad de medida es el Ohmio ($\Omega$).
+  + Valores bajos (ej. 220 $\Omega$): Permiten pasar mucha corriente.
+  + Valores altos (ej. 100k $\Omega$): Permiten pasar muy poca corriente.
+
+ **3. El Código de Colores**
+ 
+Como los resistores son muy pequeños para escribir números en ellos, se usan bandas de colores para identificar su valor.
++ Las primeras dos bandas son números.
++ La tercera es el multiplicador (cuántos ceros agregas).
++ La cuarta (usualmente dorada) es la tolerancia (qué tan preciso es el valor).
+
+
+
+---
 ## Encargo: LQXTLC
 
 ### Ejercicio 1
