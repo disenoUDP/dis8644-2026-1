@@ -53,7 +53,7 @@ Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso po
 
 Dividi en 4 secciones la PCBA
 
-1. Sección A
+- Zona 1
 
 Resistencias:
 
@@ -72,7 +72,7 @@ Condensadores:
 | 2 | 100 µF      | 35 V   |
 | 3 | 220 µF      | 63 V   |
 
-2. Sección B
+- Zona 2
 
 Resistencias:
 
@@ -96,13 +96,14 @@ Condensadores:
 | 3 | 100 µF      | 35 V   |
 | 4 | 100 µF      | 16 V   |
 
-3. Sección C
+- Zona 3
+
 
 Resistencias:
 
 Condensadores:
 
-4. Sección D
+- Zona 4
 
 Resistencias:
 
