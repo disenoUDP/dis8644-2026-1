@@ -51,7 +51,43 @@ Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no 
 
 Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo (es hermoso poder reconocer cosas que antes no tenia pensado en saber. Este ramo me ha ayudado a poder hablar más con mi papá)
 
+Dividi en 4 secciones la PCBA
 
+1. Sección A
 
-transformadores toroidales
+Resistencias:
 
+| # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
+|---|--------|--------|--------|--------|--------|--------|
+| 1 | rojo   | café   | dorado | negro  | negro  | café   |
+| 2 | rojo   | café   | café   | café   | rojo   | rojo   |
+| 3 | rojo   | café   | naranja| negro  | negro  | café   |
+| 4 | rojo   | café   | dorado | verde  | violeta| amarillo |
+
+Condensadores:
+
+| # | Capacitancia | Voltaje |
+|---|-------------|--------|
+| 1 | 2200 µF     | 50 V   |
+| 2 | 100 µF      | 35 V   |
+| 3 | 220 µF      | 63 V   |
+
+2. Sección B
+
+| # | Banda 1 | Banda 2 | Banda 3 | Banda 4 | Banda 5 | Banda 6 |
+|---|--------|--------|--------|--------|--------|--------|
+| 1 | rojo   | café   | café   | amarillo | amarillo | rojo   |
+| 2 | rojo   | café   | negro  | blanco   | amarillo | rojo   |
+| 3 | rojo   | café   | café   | rojo     | negro    | amarillo |
+| 4 | rojo   | café   | café   | amarillo | verde    | café   |
+| 5 | rojo   | café   | negro  | celeste  | celeste  | gris   |
+| 6 | rojo   | café   | negro  | celeste  | celeste  | celeste|
+| 7 | rojo   | café   | café   | café     | rojo     | rojo   |
+| 8 | rojo   | café   | café   | amarillo | morado   | rojo   |
+
+| # | Capacitancia | Voltaje |
+|---|-------------|--------|
+| 1 | 1000 µF     | 35 V   |
+| 2 | 10 µF       | 63 V   |
+| 3 | 100 µF      | 35 V   |
+| 4 | 100 µF      | 16 V   |
