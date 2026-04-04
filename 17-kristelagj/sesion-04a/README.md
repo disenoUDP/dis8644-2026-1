@@ -39,5 +39,14 @@ https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all
 
 **Diferencia entre condesadores y resistencias:** las resistencias limitan el flujo de corriente disipando energía en calor, por eso son de carbón, ya que el flujo de electrones no es rapido, mientras que los condensadores almacenan energía temporalmente en un campo eléctrico y la liberan.
 
+### tarea
+
+En mi caso estoy desmantelando un equipo que me prestó mi papá, me enseo sus equipos de audio, sus conexiones y de esa conversación él me enseñó el equipo que tengo en mis manos (a la hora de escribir esto no he investigado aún que es para poder hacer un análisis sin ninguna percepción y cuando termine, investigare y dejaré registro)
+
+Este se llama “Active line drive ALD-1”, el cual tiene un ruido que aún no han podido arreglar para poder escuchar música. 
+
+Es muy fácil de desarmar, solo tenia 8 tornillos de cruz y listo. 
+
+
 transformadores toroidales
 
