@@ -9,7 +9,7 @@ Se nos mencionó que tenemos 1 semana para poder rellenar después de dados los 
 
 ### clase
 
-A Partir de las sugerencias, vimos algunas cosas un poco más lento como el circuito astable y monoestable que hemos visto (falta el biestable)  
+A partir de las sugerencias, vimos algunas cosas un poco más lento como el circuito astable y monoestable que hemos visto (falta el biestable)  
 
 - Misaa
 
