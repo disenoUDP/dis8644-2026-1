@@ -11,3 +11,5 @@ La NAND hace siemore uno, a no ser que le den dos unos, ahí, da cero.
 ![operador](./imagenes/operador.heic)
 
 El condensador/capacitor ataja la velocidad (guardia del metro en la puerta)
+
+`X siempre a 9v`
