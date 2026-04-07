@@ -81,12 +81,12 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 No funciono, santi nos mando su resultado y compare que me faltaba que el tenia (a él si le resulto)
 
-![santi](imagenes/resultado_santi.jpeg)
+![santi](imagenes/resultado-santi.jpeg)
 
 1. Santi utilizo cables caimán para cconectar el parlante y yo no.
 2. A los interruptores les coloco
 
-![prueba 3](imagenes/prueba_3.png)
+![prueba 3](imagenes/prueba-3.png)
 
 1. este logro sonar pero un "pum" y ya
 
@@ -131,8 +131,8 @@ El nombre nos ayuda a hacer referencia a partes en el esquemático
  
 Intentar reconocer a qué corresponde y seguir el flujo de entrada a salida.
 
-![elementos esquematico](imagenes/elementos_esquematico.jpeg)
-![cc](imagenes/representar_cc.jpeg)
+![elementos esquematico](imagenes/elementos-esquematico.jpeg)
+![cc](imagenes/representar-cc.jpeg)
 
 - Rastrea conexiones
  → Cada línea es un cable. Muestran cómo se realizan las conexiones y rutas por donde fluye corriente.
