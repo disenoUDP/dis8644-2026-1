@@ -134,7 +134,7 @@ Componentes que limitan el paso de corriente.
 * resistencias tipo SMD (marcadas como R-Nº)
 * Función: regular corriente, dividir voltaje, proteger componentes
 
-![tele](./imagenes/resistencias.heic)
+![tele](./imagenes/resistencias.jpg)
 
 #### 3.2 Capacitores (C)
 
@@ -147,7 +147,7 @@ Componentes que almacenan y liberan energía.
 * Función: filtrar(? la energía.
 
 ![tele](./imagenes/capp.heic)
-![tele](./imagenes/capc.heic)
+![tele](./imagenes/capc.jpg)
 
 #### 3.3 Circuitos integrados (IC)
 
