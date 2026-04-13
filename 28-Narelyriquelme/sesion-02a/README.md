@@ -51,22 +51,22 @@ Aquí, los componentes se conectan a los mismos dos puntos comunes. La corriente
 
 ### Ejercicio 1
 
-![Ejercicio 1](./imagenes/ejercicio_1.jpg)
+![Ejercicio 1](./imagenes/ejercicio-1.jpg)
 Observaciones: En este circuito al sacar R1 se apagaban todos los led cortando la energia del circuito cerrado y al sacar R2 solo se corta la energia de D2,D3.
 
 ### Ejercicio 2
 
-![Ejercicio 2](./imagenes/ejercicio_2.jpg)
+![Ejercicio 2](./imagenes/ejercicio-2.jpg)
 observaciones: En este circuito solo se apagaban algunos led como el D1 cuando sacamos el R5 y el D3 al sacar R6, en las demas resistores no afectaba la energia del circuito ya que al haber varios en la misma linea no cortaba la energia.
 
 ### Ejercicio 3
 
-![Ejercicio 3](./imagenes/ejercicio_3.jpg)
+![Ejercicio 3](./imagenes/ejercicio-3.jpg)
 Observaciones: En este circuito solo se interrumpe la energia al sacar R3 apagando D3 y sacando R4 cortando la energia de D2,D4 en los demas si se saca el resistor no afecta el circuito cerrado.
 
 ### Tablas con resultados
 
-![Tabla de resultados](./imagenes/resultados_lqxtlc.jpg)
+![Tabla de resultados](./imagenes/resultados-lqxtlc.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Observaciones: En este circuito solo se interrumpe la energia al sacar R3 apagan
 ### Disco Computerwelt
 Lanzado en una época donde las computadoras eran gigantescas y desconocidas para el público general, este disco funcionó como una profecía sonora. Kraftwerk no solo hizo música; diseñó una visión del futuro.
 
-![Portada album](./imagenes/computer_world.png)  
+![Portada album](./imagenes/computer-world.png)  
 
 #### Avances 
 ​Los avances de la era de Computerwelt (1981) marcaron el nacimiento de la música electrónica moderna al integrar microprocesadores y tecnología de consumo masivo en la composición artística. Kraftwerk utilizó herramientas revolucionarias como el sintetizador digital Seiko DS-202 para obtener sonidos fríos y cristalinos, el Vocoder Sennheiser VSM201 para robotizar la voz humana y el secuenciador personalizado Synthanorma, que permitía una precisión matemática de 32 pasos imposible de replicar manualmente. La gran novedad fue la miniaturización de su equipo; mientras el resto del mundo usaba computadoras del tamaño de una habitación, ellos diseñaron racks portátiles y utilizaron dispositivos de bolsillo como la calculadora Texas Instruments y el juguete Bee Gees Rhythm Machine, profetizando una era donde la tecnología y la creación musical cabrían en la palma de la mano.
@@ -89,7 +89,7 @@ Kraftwerk se encerró casi tres años en su laboratorio secreto llamado Kling Kl
 #### Imagenes de presentacion antigua y actual
 ![presentacion antigua](./imagenes/1981-computer-world-tour.jpg)
 
-![presentacion actual](./imagenes/presentacion_2025.jpg)  
+![presentacion actual](./imagenes/presentacion-2025.jpg)  
 
 #### Analisis disco
 Escuchar este disco se siente muy frío, casi como si estuvieras dentro de un videojuego viejo y solitario. Los sonidos se repiten mucho y son algo "apagados", lo que te da una sensación de nostalgia o tristeza, como si extrañaras algo que no conoces. Pero no todo es aburrido; de repente aparecen partes más movidas que se disfrutan bastante y te dan ganas de seguir escuchando. Es un viaje extraño entre sentirte solo con las máquinas y querer moverte con el ritmo.
@@ -99,7 +99,7 @@ Escuchar este disco se siente muy frío, casi como si estuvieras dentro de un vi
 ### Disco The London Sessions
 ​Grabado en los famosos estudios de la BBC, este álbum captura a LCD Soundsystem en su mejor momento, trasladando la energía cruda de sus conciertos a una grabación de estudio. No es un disco de canciones nuevas, sino una sesión en vivo donde James Murphy y su banda reinterpretan sus éxitos con un sonido más potente y directo que el de sus discos originales.
 
-![presentacion actual](./imagenes/the_london_sessions.jpeg)  
+![presentacion actual](./imagenes/the-london-sessions.jpeg)  
 
 #### ​Avances
 ​Los avances de la era de London Sessions (2010) se basaron en perfeccionar la mezcla entre instrumentos reales y sintetizadores clásicos. A diferencia de otros artistas de la época que usaban solo computadoras, James Murphy utilizó herramientas como el sintetizador Moog y cajas de ritmos analógicas para obtener sonidos que se sienten "vivos" y pesados. La gran novedad fue lograr que la música electrónica no sonara robótica, sino como una banda de rock tocando en un club. Utilizaron consolas de mezcla antiguas y procesadores de sonido analógicos para que cada golpe de batería y cada línea de bajo se sintiera real, trayendo de vuelta el sonido sucio y emocionante del punk a las pistas de baile.
@@ -111,9 +111,9 @@ Escuchar este disco se siente muy frío, casi como si estuvieras dentro de un vi
 ​Al comparar las presentaciones en vivo, se nota cómo la banda ha pasado de ser un grupo de amigos experimentando a ser una maquinaria de sonido perfecta. En la presentación antigua en el Madison Square Garden (2011), se ve a una banda llena de cables, instrumentos por todos lados y una energía de despedida muy emocional, donde el caos era parte del show. En cambio, en las presentaciones más recientes, como en el festival Bilbao BBK Live, se nota un control total del sonido; aunque siguen usando sus sintetizadores antiguos y su famosa bola de espejos, el equipo es mucho más profesional y las luces están perfectamente sincronizadas con cada beat. Mientras que antes LCD Soundsystem parecía una banda que estaba a punto de romperse por la intensidad, hoy se presentan como maestros del sonido que saben exactamente cómo hacer vibrar a miles de personas con una precisión increíble.
 
 #### Imagenes de presentacion antigua y actual
-![presentacion antigua](./imagenes/soundsystem_antigua.jpg)
+![presentacion antigua](./imagenes/soundsystem-antigua.jpg)
 
-![presentacion actual](./imagenes/soundsystem_actual.jpeg)  
+![presentacion actual](./imagenes/soundsystem-actual.jpeg)  
 
 #### Analisis disco
 Este álbum se siente caliente y lleno de vida, como estar en una fiesta con tus mejores amigos. En lugar de sonidos fríos, aquí escuchas instrumentos que vibran y te hacen sentir mucha emoción, como si la banda estuviera tocando solo para ti. Te da una alegría explosiva que te quita cualquier tristeza, porque suena real y con mucha fuerza. Es la música perfecta para cuando quieres dejar de pensar y simplemente disfrutar, el momento me gusto.

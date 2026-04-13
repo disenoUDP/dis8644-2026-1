@@ -4,7 +4,7 @@
 
 ## encargo-01b: Aaron Swartz
 
-![imagen Aaron Swartz](./imagenes/aaron_swartz_2.jpeg)
+![imagen Aaron Swartz](./imagenes/aaron-swartz-2.jpeg)
 
 Aaron Swartz (1986–2013) fue un programador, escritor y activista político estadounidense. Es reconocido mundialmente como uno de los arquitectos de la internet abierta. Su enfoque no fue el enriquecimiento personal, sino la creación de herramientas que permitieran el libre flujo de información y la democratización del conocimiento.
 
@@ -31,7 +31,7 @@ Aaron Swartz (1986–2013) fue un programador, escritor y activista político es
   
 Aaron Swartz fue un visionario que construyó las herramientas básicas de la comunicación moderna y sacrificó su libertad por defender el derecho universal al conocimiento.
 
-![imagen Aaron Swartz](./imagenes/aaron_swartz_1.jpg)
+![imagen Aaron Swartz](./imagenes/aaron-swartz-1.jpg)
 
 Fuentes y Referencias
 
@@ -59,4 +59,4 @@ Hoy en clases nos entrgaron varios materiales para trabajar en circuitos, aqui u
 
 ### apuntes escritos en clases
 
-![imagen_apuntes](./imagenes/apuntes_clases_1b.jpg)
+![imagen_apuntes](./imagenes/apuntes-clases-1b.jpg)

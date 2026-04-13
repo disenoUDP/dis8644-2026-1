@@ -20,7 +20,7 @@ Es la pieza fundamental en dispositivos que se activan automáticamente al anoch
 
 **apuntes de la clase**
 
-![Ejercicio 1](./imagenes/apuntes_2b.jpg)
+![Ejercicio 1](./imagenes/apuntes-2b.jpg)
 
 ### Circuito Integrado 555
 

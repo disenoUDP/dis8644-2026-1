@@ -41,24 +41,24 @@ Para que el 555 oscile solo, usamos una combinación de resistencias R y un capa
 
 **Aqui algunas imagenes del trabajo**
 
-![imagen_Aaron_Swartz](./imagenes/img_1.jpg)
+![Ejercicio](./imagenes/img-1.jpg)
 
-![imagen_Aaron_Swartz](./imagenes/img_2.jpg)
+![Ejercicio](./imagenes/img-2.jpg)
 
-![imagen_Aaron_Swartz](./imagenes/img_3.jpg)
+![Ejercicio](./imagenes/img-3.jpg)
 
 
 ## Encargo 2
 ### José Vicente Asuar
 ​José Vicente Asuar fue una figura única que combinó dos mundos: la ingeniería civil y la composición musical. Esta mezcla fue la que le permitió no solo imaginar sonidos nuevos, sino construir las herramientas para crearlos. En una época donde la música se hacía solo con instrumentos tradicionales (cuerdas, vientos), Asuar entendió que la electricidad podía ser un nuevo lenguaje artístico.
 
-![imagen_Aaron_Swartz](./imagenes/jose_vicente_asuar.jpg)
+![José Vicente Asuar](./imagenes/jose-vicente-asuar.jpg)
 
 ### Obras claves
 + ​Variaciones Espectrales (1958): Es su obra más famosa y un hito para toda Latinoamérica. Fue la primera pieza creada puramente con sonidos sintéticos (generados por máquinas) sin usar instrumentos reales ni micrófonos.
 + El Comdasuar: A finales de los 70, diseñó y fabricó su propio computador dedicado exclusivamente a la música. Lo asombroso es que este aparato ya anticipaba tecnologías que hoy son estándar, como la capacidad de que una computadora central le dé órdenes a otros sintetizadores.
   
-![imagen_Aaron_Swartz](./imagenes/codsumar.jpg)
+![José Vicente Asuar](./imagenes/codsumar.jpg)
 
 Para entender el trabajo de Asuar, el usaba componentes electrónicos básicos: en lugar de una cuerda que vibra, él utilizaba osciladores y chips para generar ondas eléctricas que se transforman en audio al pasar por un altoparlante, mientras que los potenciómetros eran fundamentales en sus paneles para manipular el volumen o el tono en tiempo real.
 
