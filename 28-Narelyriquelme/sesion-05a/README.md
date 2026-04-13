@@ -17,7 +17,7 @@ La síntesis sonora es la creación de audio mediante señales eléctricas contr
 
 + **Lógica Digital (Comuertas)**
 
-![Compuertas](./imagenes/ondas.jpg)
+![Compuertas](./imagenes/compuertas.png)
 
 + **VCV Rack:** VCV Rack es un simulador de código abierto del estándar Eurorack que permite conectar módulos virtuales como osciladores (VCO) y amplificadores (VCA) mediante cables digitales para comprender el flujo de la señal (Signal Flow). Una ruta básica conecta el VCO al VCA y este al módulo de audio, permitiendo manipular el volumen en tiempo real sin interrumpir el sonido. La diferencia fundamental es que, mientras VCV Rack ofrece un entorno "ideal" sin fallos, el trabajo físico en protoboard con chips como el CD4093 y el LM386 presenta desafíos reales como el ruido eléctrico, la polaridad de los componentes y el desgaste de la batería.
 
