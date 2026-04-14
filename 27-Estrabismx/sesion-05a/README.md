@@ -164,35 +164,79 @@ Cuando se genera un sonido, se producen variaciones en la potencia y en el conte
 
 <br>
 
-### VCV RACK###
+### Eurorack ###
 
-#### Eurorack ####
+Es un formato de sintetizador modular, por lo que si se quieren conectar diversos modulos, estos deben permanecer bajo el mismo tipo. Por lo que conectar un VCA Eurorack con un VCO Mugg podría terminar en una máquina de humo en vez de sintetizador, esto se debe a que cada sistema se articula en base de diferentes configuraciones.
+
+Otra manera de ver esto es tratar de que mi amigo que tiene Minecraft Bedrock juegue conmigo que tengo Minecraft Java, no se puede, dado que son sistemas incompatibles que funcionan bajo lógicas diferentes
+
+#### VCV Rack ####
+
+Es un software donde se simula la experiencia de uso en sintetizadores modulares, el cual tiene una interfaz muy practica al momento de aprender y experimentar sin quemar nada en el proceso
+
+Esta basada en el estándar Eurorack
+
+![Interfaz VCV Rack](./imagenes/vcvrack.png)
+
+<br>
 
 ### Moritz Klein ###
 
-[https://moritzkleininstruments.com/]
+Dentro de los referentes que se mencionan en clase destaco a Moritz Klein. Quien vende (en colaboración con https://www.ericasynths.lv/) modulos Eurorack, con la particularidad de que adjunta manuales en sus kit DIY para usuarios que no tengan ningún conocimiento previo
 
-#### Manuales ####
+>Acá destaco no solo el compartir la información para que aún sin comprar el modulo, uno pueda hacer su propia versión, sino que tambien el aspecto gráfico de este, no es como los de IKEA o LEGO, pero transmiten de la mejor manera todo lo necesario para entender
 
-[https://moritzkleininstruments.com/] [Incluir el manual]
+https://moritzkleininstruments.com/
+
+![Web](./imagenes/sc00.png)
+
+![Manual](./imagenes/sc01.png)
+
+![Manual 2](./imagenes/sc02.png)
+
+<br>
 
 #### Videos ####
 
-[Hablar de su canal de Youtube]
+Cabe mencionar Klein posee un canal de youtube (https://www.youtube.com/@MoritzKlein0), en el cual explica y realiza algunos kits o enseña principios ligados a los modulos
+
+![Youtube](./imagenes/sc03.png)
+
+![Youtube](./imagenes/sc04.png)
+
+![Youtube](./imagenes/sc05.png)
+
+<br>
 
 ## Ejercicios Aplicados ##
 
 ### Oscilador ###
 
+En clase fabricamos un oscilador o también llamado VCO, esto en base a un chip 4093, haciendo uso de sus compuertas _NAND_
+
+Algo importante a detacar es que el Pin 1 se conecto directamente a VCC, esto con el fin de tener 2 posibles resultados de los 4 probables que se obtienen generalmente.
+
+A esto se suma la incorporación del chip LM386, el cual amplifica la corriente para tener un resultado más notorio.
+
+![Esquematico](./imagenes/miprimer4093.png)
+
+>Acá solamente utilizamos una compuerta NAND (de momento)
+
+<br>
+
+Una vez desarrollado, hicimos una variación. Ahora en vez de conectar el Pin 1 a VCC lo conectamos al Pin 11, el cual es el output de otra compuerta NAND. El resultado es que ahora tenemos un Oscilador que activa otro oscilador (Inception xd)
+
+La función de la nueva compuerta NAND es servir a modo de Reloj, por lo que tambíen serviría un 555 Astable
+
+>Recordemos que un reloj (CLK / Clock) no es más que un _metrónomo_ presionando un switch pulsador
+
+<br>
+
+![Esqiematico](./imagenes/misegundo4093.png)
+
+<br>
+ 
 ## Encargo / _Schmitt Trigger_ ##
-
-*** Complementar con el funcionamiento de las compuertas lógicas ***
-
-Es un circuito comparador (compara 2 voltajes para definir cual es el encendido y cual es el apagado) que se conecta a la entrada no inversora (quien recibe voltaje + y lo amplifica, no así la entrada opuesta, la que al recibir voltaje + lo disminuye) [***Actualizar esta parte para que quede definida en el punto de compuertas lógicas***] de la compuerta lógica 
-
-> Revisar todo lo anterior, está algo curioso xd
-
-### Definición más propia y más simple: ###
 
 Este sistema establece un umbral para definir cuando algo está encendido y cuanto está apagado, este umbral se genera tomando como referencia 2 voltajes diferentes, por lo que elimina el _ruido_ que podría alterar a un comparador normal. 
 
