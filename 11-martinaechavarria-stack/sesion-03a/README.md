@@ -19,3 +19,7 @@ Circuito sonoro realizado en protoboard a partir de un chip 555, resistores, cap
 
 ![texto explicativo](./imagenes/oscilator.jpeg)
 
+## Encargo 
+Toy organ en protoboard en dúo: Lucas (no funcionó)
+Intentamos realizar el circuito después de que terminara la clase y no nos funcionó, no lo pudimos volver a intentar ni por separado porque al menos yo no tengo las pinzas caimán.
+
