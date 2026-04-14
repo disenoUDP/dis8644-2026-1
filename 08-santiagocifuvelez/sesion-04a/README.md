@@ -12,8 +12,8 @@ El día de hoy vamos a ver en estas letras lo siguiente:
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 ![cascada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
 
-<a href="https://drive.google.com/file/d/1s-TS1Z9ULEbuu8Uzo-hDDFqpuyOHnLCE/view?usp=drive_link" 
-  width="200">
+<a href="https://drive.google.com/file/d/1s-TS1Z9ULEbuu8Uzo-hDDFqpuyOHnLCE/view?usp=drive_link">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUdY8tZ3k6NU9tu5oLw3sdZMID-MxhRJpRQ&s" width="200">
 </a>
 
 ## 3. El encargo 04, respectivo a esta unidad.
