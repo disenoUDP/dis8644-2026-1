@@ -2,18 +2,27 @@
 
 ## Apuntes
 
-- cable rojo poder
-- cable negro tierra
-- prohibido unirlas entre sí porque causa corto circuito
+- Cable rojo poder
 
-- resistencia
-- flujo
-- potencial
-- corriente
-- diferencia
-- poder
-- energía
-- materia → carbón, silicio, cobre
+- Cable negro tierra
+
+- Prohibido unirlas entre sí porque causa corto circuito
+
+- Resistencia
+
+- Flujo
+
+- Potencial
+
+- Corriente
+
+- Diferencia
+
+- Poder
+
+- Energía
+
+- Materia → carbón, silicio, cobre
 
 Markdown → idioma en que escribimos en el Github
 
@@ -24,18 +33,12 @@ Conducir
 Iguales se repelen, Distintos se atraen
 
 Ley de Ohm
-
-               Voltaje (V)
+               
+Corriente (I) =  Voltaje (V) / Resistencia (R)
                        
-Corriente (I) = —----------
-
-               Resistencia (R)
-                       
-
 Tinkercard: para hacer circuitos en la web
 
-Protoboard: Líneas rojas arriba con símbolo +
-Canal al medio que separa las barritas de arriba y abajo
+Protoboard: Líneas rojas arriba con símbolo + Canal al medio que separa las barritas de arriba y abajo
 
 Batería
 
