@@ -59,14 +59,14 @@ Los días martes y viernes de 8:30am a 12:50pm.
 | 10b              | 05-22 vie  | trabajo en proyecto-02                               | Flusser, cap. 6, 7 |
 | 11a              | 05-25 mar  | trabajo en proyecto-02                               | Flusser, cap. 8, 9 |
 | 11b              | 05-29 vie  | entrega proyecto-02                                  |                    |
-| 12a              | 06-02 mar  | circuitos con motores                                |                    |
-| 12b              | 06-05 vie  | soldadura y montaje de circuitos                     |                    |
+| 12a              | 06-02 mar  | trabajo en proyecto-02                               |                    |
+| 12b              | 06-05 vie  | entrega proyecto-02                                  |                    |
 | 13a              | 06-09 mar  |                                                      |                    |
-| 13b              | 06-12 vie  |                                                      |                    |
+| 13b              | 06-12 vie  |                                 |                    |
 | 14a              | 06-16 mar  |                                                      |                    |
 | 14b              | 06-19 vie  | entrega proyecto-03                                  |                    |
-| 15a              | 06-23 mar  |                                                      |                    |
-| 15b              | 06-26 vie  |                                                      |                    |
+| 15a              | 06-23 mar  | circuitos con motores                                |                    |
+| 15b              | 06-26 vie  | soldadura y montaje de circuitos                     |                    |
 | 16a              | 06-30 mar  | semana exclusiva de trabajo en talleres              |                    |
 | 16b              | 07-03 vie  | semana exclusiva de trabajo en talleres              |                    |
 | examen           | 07-06/10   | examen de taller, fecha por definir                  |                    |
