@@ -447,7 +447,7 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 
 ## bibliografía
 
-# REFERENTES
+### REFERENTES
 
 | Referencia | Imagen |
 |------------|--------|
@@ -462,7 +462,7 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
 
-# MATERIALIDAD
+### MATERIALIDAD
 
 | Referencia | Imagen |
 |------------------------|--------|
@@ -477,7 +477,7 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 |  | ![](./imagenes/) |
 |  | ![](./imagenes/) |
 
-# CONSTRUCTIVO
+### CONSTRUCTIVO
 
 | Referencia | Imagen |
 |------------|--------|
