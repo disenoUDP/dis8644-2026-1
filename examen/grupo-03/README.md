@@ -189,16 +189,10 @@ El proceso consistió en reunirnos con papel y lápiz mientras el sintetizador p
 
 ## Partitura Comando Estelar 
 
-La primera partitura propone un lenguaje más gestual y dinámico. A través de líneas continuas, curvas, oscilaciones y variaciones en el grosor del trazo, representa los cambios de frecuencia, las pausas y el movimiento percibido durante la escucha, enfatizando el carácter variable e impredecible del comportamiento sonoro de las placas.
+La partitura propone un lenguaje más gestual y dinámico. A través de líneas continuas, curvas, oscilaciones y variaciones en el grosor del trazo, representa los cambios de frecuencia, las pausas y el movimiento percibido durante la escucha, enfatizando el carácter variable e impredecible del comportamiento sonoro de las placas.
 Más que documentar el funcionamiento técnico del sistema, estas partituras constituyen una interpretación sensible del instrumento y de la experiencia de interactuar con él. Son el resultado de un proceso colaborativo en el que cada integrante aportó su propia percepción, convirtiendo señales electrónicas en composiciones visuales que evidencian la estrecha relación entre sonido, dibujo y experimentación.
 
 ![imagenes](./imagenes/comandoestelar.jpeg)
-
-## Partitura Resonancia 
-
-La segunda partitura se desarrolla a partir de la repetición y superposición de formas circulares. El tamaño, la densidad y la distribución de estos elementos buscan expresar la intensidad, la duración y la permanencia de los sonidos, generando una composición donde la acumulación visual refleja la continuidad de las señales emitidas por el sintetizador.
-
-![imagenes](./imagenes/resonancia.jpeg)
 
 ## Referentes 
 
