@@ -6,20 +6,25 @@
 - Santiago Cifuentes Vélez / [@santiagocifuvelez](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/08-santiagocifuvelez)
 - Paula Fuentes Mena / [@paulafuentesm](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/12-paulafuentesm)
 - Kristel Ladrón de Guevara Jara / [@kristelagj](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/16-kristelagj)
-- Catalina Antonia Oyanedel Sanchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
+- Catalina Antonia Oyanedel Sánchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
 - Yaira Alexandra Ruiz Ossandón / [@yairaruiz](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/28-yairaruiz)
 
-## Criterios de diseño del sistema
+## Criterios de diseño del sistema 
 
 La inspiración para nuestro proyecto comienza desde el sonido que se produce a partir de uno de nuestros osciladores, el cual era parecido al del chirihue, ave nativa chilena. Además, como antecedente, integrantes de nuestro equipo en la entrega del primer proyecto realizaron un sintetizador que lleva como título “Naturalezas Interconectadas”, proponiendo que distintos tipos de naturalezas interactúan las unas con las otras, teniendo así un comienzo para nuestra investigación.
 
+[Video Chirihue](https://www.youtube.com/shorts/mDQom4hty6A)
+
+![naturalezas interconectadas](./imagenes/naturalezas.png)
+_Naturalezas Interconectadas_
+
 A partir de esto, nuestra conceptualización surge en base a las teorías de Donna Haraway. La autora propone el concepto de cyborg, planteando la interconexión entre diversos componentes y entornos —incluso componentes artificiales y tecnológicos—, como relaciones extensivas en el constructo de lo vivo.¹ En sus palabras, “un cyborg es un organismo cibernético, un híbrido de máquina y organismo, una criatura de realidad social y también de ficción.” ² 
 
-A partir de estas definiciones, entendemos que los componentes artificiales y tecnológicos pueden ser una parte más del cuerpo, una extensión del organismo y de lo vivo, desafiando los límites establecidos y volviéndolos más difusos.  Así, a través del concepto de unión, utilizamos diversos elementos: 
+Desde estas definiciones, entendemos que los componentes artificiales y tecnológicos pueden ser una parte más del cuerpo, una extensión del organismo y de lo vivo, desafiando los límites establecidos y volviéndolos más difusos.  Así, a través del concepto de unión, utilizamos diversos elementos: 
 
 ![elementos](./imagenes/elementos.png)
 
-Finalmente, el concepto que engloba nuestra investigación es la **simpoiesis.** Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos tienen una relación y se retroalimentan mutuamente. 
+Finalmente, el concepto que engloba toda nuestra investigación es la **simpoiesis.** Este sostiene que ningún ser, sistema o creación se produce o se sostiene a sí mismo en solitario, sino mediante redes de colaboración mutua, por esto planteamos que nada trabaja de manera solitaria, todos los elementos tienen una relación y se retroalimentan mutuamente.
 
 _“En el centro de este mundo que se deshilacha, la interdependencia permanece. Lo vivo y lo no vivo están tejidos en una trama que se modifica a cada instante.” Jorgelina Sannazzaro³_
 
@@ -27,9 +32,9 @@ _“En el centro de este mundo que se deshilacha, la interdependencia permanece.
 
 La historia de la música electroacústica en Chile se remonta a la década de 1950, dividiéndose en diversas etapas. Según Federico Schumacher, para llegar a consolidarse, la aparición del computador como una herramienta esencial en la composición electroacústica  facilitó enormemente esta nueva situación.⁴ 
 
-Tenemos el computador como un principal antecedente en la música electroacústica generada en Chile, lo que nos permite tener como referencia a un gran exponente, José Vicente Asuar, músico e ingeniero, quien realizó Comdasuar en 1977-78, un computador que funcionaba como herramienta compositiva e instrumental en tiempo real. Incluía editor de partitura y secuenciador, una herramienta de composición algorítmica, un programa de síntesis de sonido digital, una unidad analógica de proceso y enriquecimiento de la señal.
+Tenemos el computador como un principal antecedente en la música electroacústica generada en Chile, lo que nos permite tener como referencia a un gran exponente, José Vicente Asuar, músico e ingeniero, quien realizó _Comdasuar_ en 1977-78, un computador que funcionaba como herramienta compositiva e instrumental en tiempo real. Incluía editor de partitura y secuenciador, una herramienta de composición algorítmica, un programa de síntesis de sonido digital, una unidad analógica de proceso y enriquecimiento de la señal.
 
-El desarrollo y la evolución de este mundo llevó a pasar de los generadores analógicos de onda y grabadores de cinta al computador, reemplazando a la gran mayoría de los antiguos equipos, si no a todos. 
+El desarrollo y la evolución de este mundo llevó a pasar de los generadores analógicos de onda y grabadores al computador, reemplazando a la gran mayoría de los antiguos equipos, si no a todos. 
 
 A pesar de eso, en el contexto de este taller partimos desde la base de la historia, sin utilizar computadores, sino circuitos analógicos para producir nuestros propios sintetizadores. En ¿Qué es la música electrónica? de Gustavo Becerra (otro importante exponente) escrito en 1957, él responde ante las dudas de este nuevo fenómeno: quienes tocan este tipo de música pueden considerarse ejecutantes, pero éstos no tocan ningún instrumento tradicional en el cumplimiento de sus funciones. Operan osciladores de audiofrecuencia y equipos grabadores de cinta magnética.⁵ 
 
@@ -61,7 +66,7 @@ Convierte señales eléctricas en ondas de sonido enviadas desde el chirihue. Su
 
 | Módulo | ¿Qué recibe? | ¿Qué entrega? |
 | :--- | :--- | :--- |
-| **Maincra (Piezo)** | Vibraciones mecánicas provenientes de la viola. Instrumento tocado por Kriss. | Una **señal eléctrica analógica** (resultado de tocar la viola) de bajo voltaje que representa esas vibraciones. (y esta señal, nos dará "la vida", para que el synthe funcione). |
+| **Maincra (Piezo)** | Vibraciones mecánicas provenientes de la viola. Instrumento tocado por Kriss. | Una **señal eléctrica analógica** (resultado de tocar la viola) de bajo voltaje que representa esas vibraciones. Esta señal nos dará "la vida" para que el synthe funcione. |
 | **Chirihue mecanizado (Oscilador)** | La señal eléctrica proveniente del piezo (o la alimentación, dependiendo de cómo esté conectado el circuito). | Una **señal eléctrica oscilante** (onda cuadrada que se transforma a medida que movemos los potenciómetros) que genera el sonido característico del sintetizador, es decir, el sonido del chirihue. |
 | **Parla (Parlante)** | La señal eléctrica del oscilador. | **Ondas sonoras**, es decir, el sonido que finalmente escucha el espectador. |
 
@@ -136,8 +141,9 @@ Este proceso de soldadura, lo comenzamos el 16 de junio del 2026, a las 9:00 am 
 - Jueves 02 de julio: 11:00 - 18:00. **7 horas.**
 - Viernes 03 de julio: 11:00 - 21:00. **10 horas**
 - Domingo 05 de julio: 11:00 - 5:40.  **5 horas 40 min.**
+- Lunes 06 de julio: 12:00 - 21:50
 
-El tiempo de trabajo y soldadura fue de aproximadamente de **42 horas y media.** _(hasta el momento)_
+El tiempo de trabajo y soldadura fue de aproximadamente de **58 horas.** 
 
 ## Carcasa
 
@@ -149,7 +155,7 @@ La carcasa está compuesta por alambre y acrílico, la planteamos como un acceso
 
 Formalmente funciona como un ornamento estructural que refuerza la unión entre lo híbrido: un cyborg inspirado en la naturaleza. 
 
-Desde el imaginario colectivo que existe sobre el cyborg, tenemos como referente a Stelarc. Una de sus obras, The Third Hand (Tokyo, Yokohama, Nagoya 1980), es descrita por él con las siguientes palabras: “Acoplado con la tecnología, el cuerpo ahora actúa más allá de los límites de su piel y más allá del espacio local que habita. El cuerpo es ahora un sistema operativo extendido. El cuerpo se ha vuelto obsoleto e invadido por la tecnología.” 
+Desde el imaginario colectivo que existe sobre el cyborg, tenemos como referente a Stelarc. Una de sus obras, The Third Hand _(Tokyo, Yokohama, Nagoya 1980)_, es descrita por él con las siguientes palabras: “Acoplado con la tecnología, el cuerpo ahora actúa más allá de los límites de su piel y más allá del espacio local que habita. El cuerpo es ahora un sistema operativo extendido. El cuerpo se ha vuelto obsoleto e invadido por la tecnología.” 
 
 ![Stelarc](./imagenes/referente.png)
 
@@ -165,7 +171,7 @@ Otros referentes que nos ayudaron en la composición del sistema e interacción 
 
 - **Yonhosago:** banda conformada en 1999 por alumnos de la Universidad Católica donde podemos encontrar guitarras, eléctrica y clásica a la vez, era una banda vanguardista para la época, experimental para otros. 
 
-- **Wave:** obra de Alexey Kochetkov (artista alemán) en su proyecto 5 String Theory que se inspira en los principios de la generación y procesamiento de sonido propios de los sintetizadores. Aquí el violín se presenta como un oscilador, modelando por capas de efectos para generar texturas electrónicas. [Wave](https://www.youtube.com/watch?v=-chFKYEPqYw&list=RD-chFKYEPqYw&start_radio=1 ) 
+- **Wave:** obra de Alexey Kochetkov (artista y violinista alemán) en su proyecto 5 String Theory que se inspira en los principios de la generación y procesamiento de sonido propios de los sintetizadores. Aquí el violín se presenta como un oscilador, modelado por capas de efectos para generar texturas electrónicas. [Wave](https://www.youtube.com/watch?v=-chFKYEPqYw&list=RD-chFKYEPqYw&start_radio=1 ) 
 
 ## Composición
 
@@ -174,29 +180,28 @@ Nuestra partitura se divide en dos:
 - **Visual:** para el intérprete.
 - **Escrita:** para el espectador.
 
-Como referente para la primera, tenemos a Asuar, quien en la relación de sus obras utilizaba formas geométricas para representar el sonido que quería crear. Esta forma de observar la música nos da la posibilidad de que quien toque la viola pueda interpretar de mejor manera el ritmo de los sonidos.
+Como referente para la primera, tenemos a Asuar, quien en la relación de sus obras utilizaba formas geométricas para representar el sonido que quería crear. Esta forma de observar la música nos da la posibilidad de que quien toque el instrumento pueda interpretar de mejor manera el ritmo que se quiere producir.
 
 ![Asuar](./imagenes/partituras.png)
 _Documental Variaciones Espectrales – dereojo comunicaciones. (2016)_
 
-**_(En proceso)_**
+**Partitura visual, para el intérprete:**
 
-Respecto a la segunda, utilizamos como un marco referencial los libros recomendados por los profesores: Pomelo de Yoko Ono y Anthology of Text Scores de Pauline Oliveros. Estas partituras experimentales nos hicieron ver la posibilidad de incluir relatos más poéticos e instrucciones dentro de la creación de lo musical.
+![visual](imagenes/partitura.png)
 
-**Partitura:**
+Respecto a la segunda, utilizamos como un marco referencial los libros recomendados: Pomelo de Yoko Ono y Anthology of Text Scores de Pauline Oliveros. Estas partituras experimentales nos hicieron ver la posibilidad de incluir relatos más poéticos e instrucciones dentro de la creación de lo musical. Además, referenciamos el poema de Violeta Parra musicalizado por diversos artistas, La Exiliada del Sur, siendo la versión más conocida la de Inti Illimani. 
 
-En un país, al muy sur del globo, existía un pequeño pájaro cuyo canto se convirtió en un hito, pues esta pequeña ave, muy grande de corazón, le hizo un concierto a Violeta Parra, quien sin cuerdas en la guitarra y sin hojas en el colihue, le escuchó y revivió. 
+**Partitura escrita, para el espectador:**
 
-¡Hay vida otra vez!
+En un país, al sur del globo, existía un pequeño pájaro cuyo canto se convirtió en un hito, pues esta pequeña ave, muy grande de corazón, le hizo un concierto a Violeta Parra.
 
-Ahora es el turno de devolver este impulso de fuerza y vida…, el chirihue mecanizado, quien sin cuerdas en la guitarra y sin hojas en el colihue, la escuchará y revivirá, nos escuchará, y revivirá.
+Es turno de devolver el impulso de fuerza y vida al chirihue mecanizado, quien sin cuerdas en la guitarra y sin hojas en el colihue, la escuchará y revivirá, nos escuchará, y revivirá.
 
 1. Primero vamos a intentar ver la melodía de las cuerdas de la viola, y vamos a ser testigos de cómo cada señal emitida por esta, dará la vida al chirihue para que entone su canto.
-
 2. El chirihue está cantando, ¡ESTÁ VIVO!, pero te necesita a ti, quien le escucha, pues él en su canto reconoce que hay más melodías por entonar…, pero no puede hacerlo sin ti:
-Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve las perillas de los potenciómetros, y escuchemos el canto de aquel pequeño mecanizado volver a la vida.
+Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve las perillas de los potenciómetros, y escuchemos el cantó de aquel pequeño mecanizado volver a la vida.
 
-3. Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha, y sorpréndete como si de riñihue se tratara. 
+3. Gracias a ti, y tu buena bondad, la voz de los más pequeños se hace grande. Escucha y sorpréndete.
 
 4. Y así funcionan diversas naturalezas…, se entretejen y se convierten en una sola.
 
@@ -211,10 +216,10 @@ Así que ahora acércate a la artista de las cuerdas, y vuélvanse uno; mueve la
 
 ## Conclusión
 
-En proceso
+Este proceso ha estado lleno de altos y bajos, partimos con una idea muy clara respecto a lo que queríamos hacer, pero nos fuimos topando con varios obstáculos en el camino, ya que nuestra placa principal del Chirihue Mecanizado tuvo bastantes problemas para que funcionara como esperábamos. A pesar de eso y el arduo trabajo en equipo, pudimos rescatar bastantes aprendizajes de esta experiencia. A partir de los conocimientos adquiridos en la clase, pudimos tener una segunda opción en la que utilizamos protoboards y para moder mostrar nuestra propuesta, teniendo una segunda opción, además de recordarnos que es la primera que vez que se realizan este tipo de proyectos en en la universidad. Nos sentimos orgullosos del progreso que tuvimos. 
 
-
-
+![procesos](./imagenes/procesos.png)
+![grupo](./imagenes/fotogrupo.png)
 
 ## Bibliografía
 
